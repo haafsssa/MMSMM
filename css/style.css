@@ -1,0 +1,74 @@
+.display-1{
+	color:white;
+}
+
+.col-md-8{
+	color:white;
+}
+
+.bigmaintext{
+	color:black;
+}
+
+.bigmaintext{
+	color:white;
+	text-align:center;
+	font-family:georgia;
+}
+
+
+
+.imagemm1{
+	float: right;
+}
+
+.postermm1{
+	float:left;
+}
+
+.foxmarket{
+	float:right;
+}
+
+.imagemm10{
+	float:left;
+}
+
+.datepublished{
+	color:black;
+}
+
+
+.winnermm{
+	float:right;
+}
+
+.headchef{
+	float:right;
+}
+
+.btn{
+	text-align:center;
+}
+
+.blogtext{
+	color:black;
+}
+
+.dateofpublish{
+	color:black;
+}
+
+
+.btn-lgg{
+	color:black;
+	text-align:center;
+}
+
+.btn-lga{
+	color:white;
+}
+
+.blogpoints{
+	font-family:georgia;
+}
